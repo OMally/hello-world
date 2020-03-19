@@ -1,5 +1,5 @@
 # hello-world
-My name is Malcolm May, a 50+ veteran in many aspecs of the word. This is my first repository from the guide tutorial.
+My name is Malcolm May, a 50+ veteran in many aspects of the word. This is my first repository from the guide tutorial.
 
 This text is supposed to be in the branched code readme-edits.
 
